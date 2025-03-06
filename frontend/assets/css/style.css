@@ -1,0 +1,16 @@
+.email-error {
+  color: orange;
+}
+
+.password-error {
+  color: blue;
+}
+
+.error-name {
+  color: purple;
+}
+
+.tel-error {
+  color: #40e0d0;
+  text-align: center;
+}
